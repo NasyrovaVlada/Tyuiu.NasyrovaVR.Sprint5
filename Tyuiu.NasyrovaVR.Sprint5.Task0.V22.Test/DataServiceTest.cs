@@ -13,7 +13,7 @@ namespace Tyuiu.NasyrovaVR.Sprint5.Task0.V22.Test
         [TestMethod]
         public void CheckSaveToFileTextData()
         {
-            string path =;
+            string path = @"L:\Проги\Tyuiu.NasyrovaVR.Sprint5\Tyuiu.NasyrovaVR.Sprint5.Task0.V22\bin\Debug\OutPutFileTask0.txt";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
