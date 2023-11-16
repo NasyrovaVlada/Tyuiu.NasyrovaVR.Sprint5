@@ -18,7 +18,7 @@ namespace Tyuiu.NasyrovaVR.Sprint5.Task0.V22.Lib
             
             double z = (Math.Pow(1.0 - (double)x, 2.0)) / ((-3.0) * (double)x);
             
-            z = Math.Round(z, 2);
+            z = Math.Round(z, 3);
             File.WriteAllText(path, Convert.ToString(z));
             return path;
             
