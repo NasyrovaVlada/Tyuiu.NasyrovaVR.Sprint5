@@ -18,7 +18,7 @@ namespace Tyuiu.NasyrovaVR.Sprint5.Task5.V2
             Console.Title = "Спринт #5 | Выполнила: Насырова В. Р. | ИИПб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
-            Console.WriteLine("* Тема: Чтение данных из текстового файла                                 *");
+            Console.WriteLine("* Тема: Чтение набора данных из текстового файла                          *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнила: Насырова Влада Ренатовна | ИИПб-23-3                         *");
